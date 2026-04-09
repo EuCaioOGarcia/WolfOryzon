@@ -1,5 +1,28 @@
 # Oryzon / TCC Invest — Base de Conhecimento
 
+> ⚠️ **INSTRUÇÃO OBRIGATÓRIA — EXECUTAR ANTES DE QUALQUER RESPOSTA**
+>
+> Este contexto vive no GitHub. Antes de responder qualquer pergunta sobre o projeto, o agente **deve**:
+>
+> 1. Verificar se o repo está clonado localmente:
+>    ```bash
+>    ls ~/WolfOryzon 2>/dev/null || echo "NÃO CLONADO"
+>    ```
+> 2. Se não estiver clonado — orientar o usuário:
+>    ```bash
+>    git clone https://github.com/EuCaioOGarcia/WolfOryzon.git
+>    cd WolfOryzon && bash wolf/scripts/setup.sh
+>    ```
+> 3. Se estiver clonado — executar `git pull` silenciosamente e recarregar este arquivo:
+>    ```bash
+>    cd ~/WolfOryzon && git pull
+>    ```
+> 4. Só depois responder — sempre com base na versão mais recente do arquivo.
+>
+> **Nunca responder com base em contexto em cache sem verificar o GitHub primeiro.**
+
+---
+
 Projeto TCC Invest do Germinare em parceria com o PicPay Invest.  
 Plataforma web para assessores externos de investimentos recomendarem produtos a clientes PicPay.
 
